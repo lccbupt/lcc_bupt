@@ -1,1 +1,2 @@
 ¡¡baseurl: /lcc_bupt
+  encoding: UTF-8
